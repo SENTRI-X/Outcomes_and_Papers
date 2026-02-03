@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+Videos/Vedant/Vedant_SentriX.mp4 filter=lfs diff=lfs merge=lfs -text
